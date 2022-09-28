@@ -1,0 +1,1 @@
+calAvg=lambda score,multy: score*multy
